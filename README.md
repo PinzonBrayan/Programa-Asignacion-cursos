@@ -9,6 +9,8 @@ El usuario definido es "alumno" y contraseña es "2024”
 ⁠Darle click en “Entregar Examen”
 ⁠Y nos da la nota recibida al realizar el examen 
 ⁠Listo ya tienes el programa funcionando
+Link de la pagina web:
+https://pinzonbrayan.github.io/InInstitucionEducactiva.github.io/
 
 El programa para ordenador se encarga de cargar una tabla con los cursos a los que se puede asignar cargados en archivo .csv
 Luego tiene dos botones uno para Realizar el examen y otro para asignar cursos
